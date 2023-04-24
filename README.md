@@ -1,7 +1,14 @@
-# Finnhub Streaming Data Pipeline
+# Finnhub Real-time Streaming Data Pipeline
 
-The project is a streaming data pipeline based on Finnhub.io API/websocket real-time trading data created for a sake of my master's thesis related to stream processing.
+The project is a streaming data pipeline based on Finnhub.io API/websocket real-time trading data created for a sake of master's thesis related to stream processing.
 It is designed with a purpose to showcase key aspects of streaming pipeline development & architecture, providing low latency, scalability & availability.
+
+## Technology Stack:
+
+* Spark
+* Kafka
+* Kubernetes
+* Zookeeper
 
 ## Architecture
 
